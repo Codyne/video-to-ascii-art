@@ -1,4 +1,6 @@
 # video-to-ascii-art
+For those who can only afford a terminal because graphics cards are too expensive but still need to get on video calls and watch movies.
+
 Takes in a video file as input and prints the video to the terminal as ascii art at the same frames per second as the video.  
 
 Command line options:  
